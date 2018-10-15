@@ -1,0 +1,2 @@
+Azure CLI commend:
+az role definition create --role-definition operator-maszyn-wirtualnych.json
